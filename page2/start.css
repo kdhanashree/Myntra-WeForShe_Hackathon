@@ -187,3 +187,49 @@ border-right: 1px solid #C0C0C0;
 {
   width: 50px;
 }
+.left_list_b
+{
+  height: 400px;
+  font-size: 14px;
+  text-align: start;
+  border-bottom: 1px solid #DCDCDC;
+}
+.radio
+{
+  color:#DCDCDC ;
+  width: 15px;
+  height: 15px;
+}
+.options
+{
+  height: 325px;
+  
+  width: 85%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.main_portion
+{
+  display: flex;
+  
+}
+
+.pictures
+{
+  width: 210px;
+height: 250px;
+padding: 20px 20px 10px 0px;
+}
+.items
+{
+  display: block;
+}
+.things
+{
+  width: 17%;
+  
+  justify-content: center;
+  font-size: small;
+  padding-left: 40px;
+}
